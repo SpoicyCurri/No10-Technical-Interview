@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+data/ICB Level CSVs/
 
 # C extensions
 *.so
