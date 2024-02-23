@@ -25,4 +25,6 @@ The code is designed to run with minimal setup. One simply needs to:
 
 ## Description
 
+Analysis is written in the 'Sandpit' notebook
+
 ## Next Steps
